@@ -179,11 +179,18 @@ body {
     flex-direction: column;
 }
 
+.bigger-brain p {
+    display: flex;
+    flex: 0 1 auto;
+}
+
 .bigbrain p {
     margin: 2px;
  }
 
 h2 {
+    display: flex;
+    flex: 0 1 auto;
     margin: 0;
  }
 
